@@ -1,8 +1,8 @@
 # Dijkstra t-SNE
-
+*This repository is part of the Research Project 2025 Q4 course at TU Delft*
 ## Setup
 ### Environment
-Make sure you have **Conda** (or **Mamba**, or something else with this functionality). To set up the environment run:
+Make sure you have **Conda** (or **Mamba**, or something else with this functionality). To set up the environment, run:
 ```bash
 conda env create -f environment.yml
 conda activate mg-emb-exps-dijkstra-tsne
